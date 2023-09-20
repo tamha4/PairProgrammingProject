@@ -1,0 +1,16 @@
+|
+1
+LightSaber
+3
+|
+2
+GrappleHook
+10
+|
+3
+Communicator
+10
+|
+4
+Blaster
+10

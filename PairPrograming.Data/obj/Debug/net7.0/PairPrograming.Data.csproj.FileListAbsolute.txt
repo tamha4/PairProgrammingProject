@@ -1,0 +1,11 @@
+C:\ElevenFiftyProjects_175\codingFoundations\dotnetProjects\assignments\consoleGame\PairPrograming.Data\bin\Debug\net7.0\PairPrograming.Data.deps.json
+C:\ElevenFiftyProjects_175\codingFoundations\dotnetProjects\assignments\consoleGame\PairPrograming.Data\bin\Debug\net7.0\PairPrograming.Data.dll
+C:\ElevenFiftyProjects_175\codingFoundations\dotnetProjects\assignments\consoleGame\PairPrograming.Data\bin\Debug\net7.0\PairPrograming.Data.pdb
+C:\ElevenFiftyProjects_175\codingFoundations\dotnetProjects\assignments\consoleGame\PairPrograming.Data\obj\Debug\net7.0\PairPrograming.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\ElevenFiftyProjects_175\codingFoundations\dotnetProjects\assignments\consoleGame\PairPrograming.Data\obj\Debug\net7.0\PairPrograming.Data.AssemblyInfoInputs.cache
+C:\ElevenFiftyProjects_175\codingFoundations\dotnetProjects\assignments\consoleGame\PairPrograming.Data\obj\Debug\net7.0\PairPrograming.Data.AssemblyInfo.cs
+C:\ElevenFiftyProjects_175\codingFoundations\dotnetProjects\assignments\consoleGame\PairPrograming.Data\obj\Debug\net7.0\PairPrograming.Data.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects_175\codingFoundations\dotnetProjects\assignments\consoleGame\PairPrograming.Data\obj\Debug\net7.0\PairPrograming.Data.dll
+C:\ElevenFiftyProjects_175\codingFoundations\dotnetProjects\assignments\consoleGame\PairPrograming.Data\obj\Debug\net7.0\refint\PairPrograming.Data.dll
+C:\ElevenFiftyProjects_175\codingFoundations\dotnetProjects\assignments\consoleGame\PairPrograming.Data\obj\Debug\net7.0\PairPrograming.Data.pdb
+C:\ElevenFiftyProjects_175\codingFoundations\dotnetProjects\assignments\consoleGame\PairPrograming.Data\obj\Debug\net7.0\ref\PairPrograming.Data.dll

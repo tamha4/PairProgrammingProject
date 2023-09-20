@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "PairProgramming.UI/1.0.0": {
+        "dependencies": {
+          "PairPrograming.Data": "1.0.0",
+          "PairProgramming.Repository": "1.0.0"
+        },
+        "runtime": {
+          "PairProgramming.UI.dll": {}
+        }
+      },
+      "PairPrograming.Data/1.0.0": {
+        "runtime": {
+          "PairPrograming.Data.dll": {}
+        }
+      },
+      "PairProgramming.Repository/1.0.0": {
+        "dependencies": {
+          "PairPrograming.Data": "1.0.0"
+        },
+        "runtime": {
+          "PairProgramming.Repository.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PairProgramming.UI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PairPrograming.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PairProgramming.Repository/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

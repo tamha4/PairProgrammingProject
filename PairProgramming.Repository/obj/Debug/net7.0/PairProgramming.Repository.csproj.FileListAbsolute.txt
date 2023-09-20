@@ -1,0 +1,15 @@
+C:\ElevenFiftyProjects_175\codingFoundations\dotnetProjects\assignments\consoleGame\PairProgramming.Repository\bin\Debug\net7.0\PairProgramming.Repository.deps.json
+C:\ElevenFiftyProjects_175\codingFoundations\dotnetProjects\assignments\consoleGame\PairProgramming.Repository\bin\Debug\net7.0\PairProgramming.Repository.dll
+C:\ElevenFiftyProjects_175\codingFoundations\dotnetProjects\assignments\consoleGame\PairProgramming.Repository\bin\Debug\net7.0\PairProgramming.Repository.pdb
+C:\ElevenFiftyProjects_175\codingFoundations\dotnetProjects\assignments\consoleGame\PairProgramming.Repository\bin\Debug\net7.0\PairPrograming.Data.dll
+C:\ElevenFiftyProjects_175\codingFoundations\dotnetProjects\assignments\consoleGame\PairProgramming.Repository\bin\Debug\net7.0\PairPrograming.Data.pdb
+C:\ElevenFiftyProjects_175\codingFoundations\dotnetProjects\assignments\consoleGame\PairProgramming.Repository\obj\Debug\net7.0\PairProgramming.Repository.csproj.AssemblyReference.cache
+C:\ElevenFiftyProjects_175\codingFoundations\dotnetProjects\assignments\consoleGame\PairProgramming.Repository\obj\Debug\net7.0\PairProgramming.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\ElevenFiftyProjects_175\codingFoundations\dotnetProjects\assignments\consoleGame\PairProgramming.Repository\obj\Debug\net7.0\PairProgramming.Repository.AssemblyInfoInputs.cache
+C:\ElevenFiftyProjects_175\codingFoundations\dotnetProjects\assignments\consoleGame\PairProgramming.Repository\obj\Debug\net7.0\PairProgramming.Repository.AssemblyInfo.cs
+C:\ElevenFiftyProjects_175\codingFoundations\dotnetProjects\assignments\consoleGame\PairProgramming.Repository\obj\Debug\net7.0\PairProgramming.Repository.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects_175\codingFoundations\dotnetProjects\assignments\consoleGame\PairProgramming.Repository\obj\Debug\net7.0\PairProgramming.Repository.csproj.CopyComplete
+C:\ElevenFiftyProjects_175\codingFoundations\dotnetProjects\assignments\consoleGame\PairProgramming.Repository\obj\Debug\net7.0\PairProgramming.Repository.dll
+C:\ElevenFiftyProjects_175\codingFoundations\dotnetProjects\assignments\consoleGame\PairProgramming.Repository\obj\Debug\net7.0\refint\PairProgramming.Repository.dll
+C:\ElevenFiftyProjects_175\codingFoundations\dotnetProjects\assignments\consoleGame\PairProgramming.Repository\obj\Debug\net7.0\PairProgramming.Repository.pdb
+C:\ElevenFiftyProjects_175\codingFoundations\dotnetProjects\assignments\consoleGame\PairProgramming.Repository\obj\Debug\net7.0\ref\PairProgramming.Repository.dll

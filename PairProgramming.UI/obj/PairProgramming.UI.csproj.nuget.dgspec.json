@@ -1,0 +1,178 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\ElevenFiftyProjects_175\\codingFoundations\\dotnetProjects\\assignments\\consoleGame\\PairProgramming.UI\\PairProgramming.UI.csproj": {}
+  },
+  "projects": {
+    "C:\\ElevenFiftyProjects_175\\codingFoundations\\dotnetProjects\\assignments\\consoleGame\\PairPrograming.Data\\PairPrograming.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\ElevenFiftyProjects_175\\codingFoundations\\dotnetProjects\\assignments\\consoleGame\\PairPrograming.Data\\PairPrograming.Data.csproj",
+        "projectName": "PairPrograming.Data",
+        "projectPath": "C:\\ElevenFiftyProjects_175\\codingFoundations\\dotnetProjects\\assignments\\consoleGame\\PairPrograming.Data\\PairPrograming.Data.csproj",
+        "packagesPath": "C:\\Users\\Kingl\\.nuget\\packages\\",
+        "outputPath": "C:\\ElevenFiftyProjects_175\\codingFoundations\\dotnetProjects\\assignments\\consoleGame\\PairPrograming.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Kingl\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\ElevenFiftyProjects_175\\codingFoundations\\dotnetProjects\\assignments\\consoleGame\\PairProgramming.Repository\\PairProgramming.Repository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\ElevenFiftyProjects_175\\codingFoundations\\dotnetProjects\\assignments\\consoleGame\\PairProgramming.Repository\\PairProgramming.Repository.csproj",
+        "projectName": "PairProgramming.Repository",
+        "projectPath": "C:\\ElevenFiftyProjects_175\\codingFoundations\\dotnetProjects\\assignments\\consoleGame\\PairProgramming.Repository\\PairProgramming.Repository.csproj",
+        "packagesPath": "C:\\Users\\Kingl\\.nuget\\packages\\",
+        "outputPath": "C:\\ElevenFiftyProjects_175\\codingFoundations\\dotnetProjects\\assignments\\consoleGame\\PairProgramming.Repository\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Kingl\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\ElevenFiftyProjects_175\\codingFoundations\\dotnetProjects\\assignments\\consoleGame\\PairPrograming.Data\\PairPrograming.Data.csproj": {
+                "projectPath": "C:\\ElevenFiftyProjects_175\\codingFoundations\\dotnetProjects\\assignments\\consoleGame\\PairPrograming.Data\\PairPrograming.Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\ElevenFiftyProjects_175\\codingFoundations\\dotnetProjects\\assignments\\consoleGame\\PairProgramming.UI\\PairProgramming.UI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\ElevenFiftyProjects_175\\codingFoundations\\dotnetProjects\\assignments\\consoleGame\\PairProgramming.UI\\PairProgramming.UI.csproj",
+        "projectName": "PairProgramming.UI",
+        "projectPath": "C:\\ElevenFiftyProjects_175\\codingFoundations\\dotnetProjects\\assignments\\consoleGame\\PairProgramming.UI\\PairProgramming.UI.csproj",
+        "packagesPath": "C:\\Users\\Kingl\\.nuget\\packages\\",
+        "outputPath": "C:\\ElevenFiftyProjects_175\\codingFoundations\\dotnetProjects\\assignments\\consoleGame\\PairProgramming.UI\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Kingl\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\ElevenFiftyProjects_175\\codingFoundations\\dotnetProjects\\assignments\\consoleGame\\PairPrograming.Data\\PairPrograming.Data.csproj": {
+                "projectPath": "C:\\ElevenFiftyProjects_175\\codingFoundations\\dotnetProjects\\assignments\\consoleGame\\PairPrograming.Data\\PairPrograming.Data.csproj"
+              },
+              "C:\\ElevenFiftyProjects_175\\codingFoundations\\dotnetProjects\\assignments\\consoleGame\\PairProgramming.Repository\\PairProgramming.Repository.csproj": {
+                "projectPath": "C:\\ElevenFiftyProjects_175\\codingFoundations\\dotnetProjects\\assignments\\consoleGame\\PairProgramming.Repository\\PairProgramming.Repository.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
